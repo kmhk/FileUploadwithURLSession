@@ -1,0 +1,6 @@
+framework module MSImagePickerController {
+  umbrella header "MSImagePickerController-umbrella.h"
+
+  export *
+  module * { export * }
+}
